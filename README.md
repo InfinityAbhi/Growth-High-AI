@@ -2,6 +2,8 @@
 
 A fully functional AI-enhanced paper trading platform with real AI integration using Llama via Groq.
 
+<img width="1895" height="930" alt="Image" src="https://github.com/user-attachments/assets/aaa456ab-c6ff-4e22-9dee-ef572e2f5211" />
+
 ## Features
 
 - 🤖 **Real AI Integration**: Uses Llama 3 via Groq API for trading analysis
